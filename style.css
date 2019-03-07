@@ -1,13 +1,21 @@
 
 
+.navbar{ background: white;
+    color: #BEBEBE;
+
+}
 
 .navbar h1{
     background: teal;
     color: white;
     padding-top: 10px;
-    margin-bottom: 0px;
+    margin-left: 20px;
+    margin-top: 0px;
 
 }
+
+
+
 
 
 
