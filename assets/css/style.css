@@ -1,5 +1,18 @@
 
 
+body{
+    border-top: solid 2px black;
+    background-color: #F0F0F0;
+}
+
+.container{
+    background: white;
+    float: left;
+}
+ 
+
+
+
 .navbar{ background: white;
     color: #BEBEBE;
 
@@ -14,6 +27,12 @@
 
 }
 
+.centere {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
 
 
 
