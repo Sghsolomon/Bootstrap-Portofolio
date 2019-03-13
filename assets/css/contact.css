@@ -1,0 +1,82 @@
+body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background: #EDEDED;
+    box-sizing: border-box;
+    font-size: 24px;
+    box-sizing: border-box;
+
+    
+    
+}
+
+header{
+    font-family:  'Georgia', Times, 'Times New Roman', Times, serif, serif;
+    text-align: center;
+    background: #FFFFFF;
+    width: 980px;
+    line-height: 20px;
+    overflow: auto; 
+    margin: 40px;
+    border: 1px solid #D6D6D6;
+       
+}
+
+header h1{
+    background: #5CAAA5;
+    color: white;
+    font-size: 24px;
+    float: left;
+    width: 25%;
+    padding: 40px;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}    
+
+
+ nav{
+    
+    float: left;
+    padding-left: 300px;
+    padding-top: 20px;
+}
+
+a{
+    clear: both;
+    color: #888;
+    
+}
+
+.form{
+    background: white;
+    width: 70%;
+    margin-left: 70px;
+    padding: 20px;
+    font-size: 14px;
+}
+
+
+
+input{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button{
+    
+        background-color: #5CAAA5;; /* Teal */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        width: 200px
+      
+}
